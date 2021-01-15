@@ -1,0 +1,17 @@
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s001.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s002.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s003.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s004.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s005.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s006.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s007.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s008.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s009.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s010.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s011.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s012.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s013.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s014.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s015.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s016.zip
+http://rose1.ntu.edu.sg/Datasets/actionRecognition/download/nturgbd_rgb_s017.zip
